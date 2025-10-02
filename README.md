@@ -9,6 +9,10 @@
 - выявление нелегальных построек.  
 
 
+## Веса модели
+
+https://drive.google.com/file/d/1DuZ6OksKONv-vYnjUPk-8u_jSXpkLMcn/view?usp=sharing
+
 ## Важная помарка
 Мы не успели собрать сервис полностью поэтому тут скрипт обучения и inference.ipynb где на вход берется папка с images и табличка с img_path, lat, lon и на выход табличка img_path, gt_lat, gt_lon, pred_lat, pred_lon и ошибка в метрах
 Мы провели объемный ресерч и надеемся на снисходительность! Средняя ошибка ~5км
